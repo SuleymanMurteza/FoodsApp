@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homePage"
+        android:icon="@drawable/homepage_icon" />
+    <item
+        android:id="@+id/favPage"
+        android:icon="@drawable/baseline_favorite_24" />
+    <item android:icon="@drawable/person" />
+    <item
+        android:id="@+id/cartPage"
+        android:icon="@drawable/add_cart" />
+</menu>
